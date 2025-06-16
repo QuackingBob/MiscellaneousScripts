@@ -1,0 +1,1 @@
+g++ .\node-announcer.cpp -o .\node-announcer.exe -lws2_32 -pthread && .\node-announcer.exe
